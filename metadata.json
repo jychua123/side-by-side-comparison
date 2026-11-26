@@ -1,0 +1,6 @@
+{
+  "name": "SimplyGo UI/UX Iteration Comparison",
+  "description": "Side-by-side live comparison of SimplyGo UI/UX iterations: Original Replica, Version 1 (Intuitive Accounts), and Version 2 (Nielsen's 10 Heuristics), with design rationale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
